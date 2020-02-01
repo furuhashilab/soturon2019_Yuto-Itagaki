@@ -7,8 +7,7 @@ https://docs.google.com/document/d/1L8kAg4-EXHZBpdBf-Hl3r9wwJpIpTikWXGDPYuVVDyE/
 
 最終発表用スライドはこちら↓
 
-https://docs.google.com/presentation/d/1VurJTxzII6ZC000UCvmRp38z8KpHO8hY4JQo5sWQMWk/edit
-
+https://docs.google.com/presentation/d/1AYLele5Q0UgY5jblVpXpZTGfwYiD6ttimm2VZu6PKVA/edit?usp=sharing
 
 ## はじめに
 イベントやセミナーに参加する際、共通の着用品を身に着けることで、チームや団体の一員だということを表すことがある。その着用品にの種類はいくつも存在する。代表的なものでいえば、Tシャツ、ジャケット、リストバンドなどだ。しかし、実際にどれにするべきを考えた時にどの着用品を選択するべきなのか、どのデザインにするべきなのかということは明らかになっていない。そこで、今回私は、所属表す着用品、特にリストバンドのデザインについて研究を行なった。
