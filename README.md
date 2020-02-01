@@ -66,12 +66,14 @@ https://docs.google.com/presentation/d/1AYLele5Q0UgY5jblVpXpZTGfwYiD6ttimm2VZu6P
 
 ![スクリーンショット 2020-02-01 9 56 17](https://user-images.githubusercontent.com/20220193/73585743-7b00b700-44e7-11ea-8f40-21e9ccc7d8c5.png)
 
-⑤ QRコードに加え、文字を追加。しかしこのサイズではQRコードは読み込めない可能性が高い。そこで可能性があるとすれば、航空券に貼ってあるような横長のQRコード作成し、貼り付ける。また、凹凸でQRコードを表現した時、それを読み込むことができるかを確認する必要がある。
-
-![listband3](https://user-images.githubusercontent.com/20220193/73585738-6ae8d780-44e7-11ea-9d13-d487ab300179.png)
 
 
  ![スクリーンショット 2020-02-01 14 52 36](https://user-images.githubusercontent.com/20220193/73587723-81505c80-4502-11ea-9f7d-be76538478bf.png)
+
+
+⑤ QRコードに加え、文字を追加。しかしこのサイズではQRコードは読み込めない可能性が高い。そこで可能性があるとすれば、航空券に貼ってあるような横長のQRコード作成し、貼り付ける。また、凹凸でQRコードを表現した時、それを読み込むことができるかを確認する必要がある。
+
+![listband3](https://user-images.githubusercontent.com/20220193/73585738-6ae8d780-44e7-11ea-9d13-d487ab300179.png)
 
 
 ⑥ 横長のQRコードを使用した場合のデザイン。フラットデザインはラバーバンドには適当だが、文字付きのロゴや描画が細いQRのようなものを使用する場合には紙のバンドが適切である。
