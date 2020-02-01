@@ -71,6 +71,9 @@ https://docs.google.com/presentation/d/1AYLele5Q0UgY5jblVpXpZTGfwYiD6ttimm2VZu6P
 ![listband3](https://user-images.githubusercontent.com/20220193/73585738-6ae8d780-44e7-11ea-9d13-d487ab300179.png)
 
 
+ ![スクリーンショット 2020-02-01 14 52 36](https://user-images.githubusercontent.com/20220193/73587723-81505c80-4502-11ea-9f7d-be76538478bf.png)
+
+
 ⑥ 横長のQRコードを使用した場合のデザイン。フラットデザインはラバーバンドには適当だが、文字付きのロゴや描画が細いQRのようなものを使用する場合には紙のバンドが適切である。
 
 ![listband4](https://user-images.githubusercontent.com/20220193/73587224-b5c11a00-44fc-11ea-870b-9ac917e19fdb.png)
